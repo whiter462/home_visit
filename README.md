@@ -1,1 +1,18 @@
 # home_visit
+
+* [オピオイドの等価換算表 | 聖隷三方原病院 症状緩和ガイド](http://www.seirei.or.jp/mikatahara/doc_kanwa/contents1/54.html)
+
+* 栄養
+  * [栄養剤の使用指針 - 焼津市立総合病院](https://www.hospital.yaizu.shizuoka.jp/hospital/nst/file/eiyozai.pdf)
+  * [エンシュア、エネーボ、ラコール、イノラスの違い](https://www.phamnote.com/2017/04/blog-post_8.html)
+  * [港南採用　経腸栄養剤　成分一覧表（2017/5/1）](http://10ai-konan.jp/pdf/eiyou201705.pdf)
+
+* 骨粗鬆症
+  * [最新の骨粗鬆症治療薬](https://www.jstage.jst.go.jp/article/geriatrics/56/2/56_56.136/_pdf)
+
+* [高齢者に関する資料 検討の参考となるGL等一覧](https://www.mhlw.go.jp/file/05-Shingikai-11121000-Iyakushokuhinkyoku-Soumuka/0000176445.pdf)
+
+* [睡眠薬の適正な使⽤と休薬のための診療ガイドライン ｰ出⼝を⾒据えた不眠医療マニュアルｰ](http://jssr.jp/files/guideline/suiminyaku-guideline.pdf)
+
+※個人の参考用であり、参照によるいかなる影響も保証はありません。
+
