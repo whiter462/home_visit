@@ -1,6 +1,10 @@
 # home_visit
 
-* [オピオイドの等価換算表 | 聖隷三方原病院 症状緩和ガイド](http://www.seirei.or.jp/mikatahara/doc_kanwa/contents1/54.html)
+× がん疼痛
+  * [オピオイドの等価換算表 | 聖隷三方原病院 症状緩和ガイド](http://www.seirei.or.jp/mikatahara/doc_kanwa/contents1/54.html)
+
+  * [がん疼痛の薬物療法に関するガイドライン（2020年版）](https://www.jspm.ne.jp/guidelines/pain/2020/index.php)
+    * [嘔気・制吐の薬物療法 2009年](http://jpps.umin.jp/issue/magazine/pdf/0204_02.pdf)
 
 * 栄養
   * [栄養剤の使用指針 - 焼津市立総合病院](https://www.hospital.yaizu.shizuoka.jp/hospital/nst/file/eiyozai.pdf)
@@ -13,6 +17,8 @@
 * [高齢者に関する資料 検討の参考となるGL等一覧](https://www.mhlw.go.jp/file/05-Shingikai-11121000-Iyakushokuhinkyoku-Soumuka/0000176445.pdf)
 
 * [睡眠薬の適正な使⽤と休薬のための診療ガイドライン ｰ出⼝を⾒据えた不眠医療マニュアルｰ](http://jssr.jp/files/guideline/suiminyaku-guideline.pdf)
+
+
 
 ※個人の参考用であり、参照によるいかなる影響も保証はありません。
 
