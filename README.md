@@ -1,6 +1,6 @@
 # home_visit
 
-× がん疼痛
+* がん疼痛
   * [オピオイドの等価換算表 | 聖隷三方原病院 症状緩和ガイド](http://www.seirei.or.jp/mikatahara/doc_kanwa/contents1/54.html)
 
   * [がん疼痛の薬物療法に関するガイドライン（2020年版）](https://www.jspm.ne.jp/guidelines/pain/2020/index.php)
