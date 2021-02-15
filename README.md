@@ -6,6 +6,8 @@
 
 ---
 
+## 資料
+
 * がん疼痛
   * [オピオイドの等価換算表 | 聖隷三方原病院 症状緩和ガイド](http://www.seirei.or.jp/mikatahara/doc_kanwa/contents1/54.html)
 
@@ -23,6 +25,11 @@
 * [高齢者に関する資料 検討の参考となるGL等一覧](https://www.mhlw.go.jp/file/05-Shingikai-11121000-Iyakushokuhinkyoku-Soumuka/0000176445.pdf)
 
 * [睡眠薬の適正な使⽤と休薬のための診療ガイドライン ｰ出⼝を⾒据えた不眠医療マニュアルｰ](http://jssr.jp/files/guideline/suiminyaku-guideline.pdf)
+
+## ソフト
+
+* [ORCA 医見書](https://www.orca.med.or.jp/ikensyo/)
+
 
 
 
