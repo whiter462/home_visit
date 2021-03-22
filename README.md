@@ -30,6 +30,10 @@
 
 * [睡眠薬の適正な使⽤と休薬のための診療ガイドライン ｰ出⼝を⾒据えた不眠医療マニュアルｰ](http://jssr.jp/files/guideline/suiminyaku-guideline.pdf)
 
+* [BPSDに対応する向精神薬使用ガイドライン](https://www.mhlw.go.jp/stf/houdou/2r98520000036k0c-att/2r98520000036k1t.pdf)
+
+
+
 ## ソフト
 
 * [ORCA 医見書](https://www.orca.med.or.jp/ikensyo/)
