@@ -2,7 +2,7 @@
 
 ※適宜更新しています。<br>
 ※資料が古い場合があり、注意が必要です。<br>
-※<b>個人の参考用であり、参照・参考にしたことによる影響はいかなる場合も保証しません。</b>
+※<b>個人の参考メモであり、参照・参考にしたことによる影響はいかなる場合も保証しません。</b>
 
 ---
 
@@ -15,6 +15,7 @@
     * [嘔気・制吐の薬物療法 2009年](http://jpps.umin.jp/issue/magazine/pdf/0204_02.pdf)
 
 * 栄養
+  * [経腸栄養剤マップ](http://www.peg.or.jp/care/nst/map.pdf)
   * [栄養剤の使用指針 - 焼津市立総合病院](https://www.hospital.yaizu.shizuoka.jp/hospital/nst/file/eiyozai.pdf)
   * [エンシュア、エネーボ、ラコール、イノラスの違い](https://www.phamnote.com/2017/04/blog-post_8.html)
   * [港南採用　経腸栄養剤　成分一覧表（2017/5/1）](http://10ai-konan.jp/pdf/eiyou201705.pdf)
