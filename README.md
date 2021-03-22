@@ -23,6 +23,9 @@
 * 骨粗鬆症
   * [最新の骨粗鬆症治療薬](https://www.jstage.jst.go.jp/article/geriatrics/56/2/56_56.136/_pdf)
 
+* 便秘
+  * [「慢性便秘症」に対する治療―新しい薬をどのように使うか―](https://oh-kinmui.jp/1509/)
+
 * [高齢者に関する資料 検討の参考となるGL等一覧](https://www.mhlw.go.jp/file/05-Shingikai-11121000-Iyakushokuhinkyoku-Soumuka/0000176445.pdf)
 
 * [睡眠薬の適正な使⽤と休薬のための診療ガイドライン ｰ出⼝を⾒据えた不眠医療マニュアルｰ](http://jssr.jp/files/guideline/suiminyaku-guideline.pdf)
