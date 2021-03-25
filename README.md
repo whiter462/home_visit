@@ -36,6 +36,8 @@
   * [脊髄小脳変性症・多系統萎縮症診療ガイドライン2018](https://www.neurology-jp.org/guidelinem/sd_mst_2018.html)
     * [便秘に大建中湯](https://www.jsom.or.jp/medical/ebm/cpg/pdf/A03.pdf)
 
+* [ステロイド一覧](http://www.okiyaku.or.jp/pdf/suteroido.pdf)
+
 ## ソフト
 
 * [ORCA 医見書](https://www.orca.med.or.jp/ikensyo/)
