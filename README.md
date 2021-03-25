@@ -32,7 +32,9 @@
 
 * [BPSDに対応する向精神薬使用ガイドライン](https://www.mhlw.go.jp/stf/houdou/2r98520000036k0c-att/2r98520000036k1t.pdf)
 
-
+* [日本神経学会診療ガイドライン](https://www.neurology-jp.org/guidelinem/index.html)
+  * [脊髄小脳変性症・多系統萎縮症診療ガイドライン2018](https://www.neurology-jp.org/guidelinem/sd_mst_2018.html)
+    * [便秘に大建中湯](https://www.jsom.or.jp/medical/ebm/cpg/pdf/A03.pdf)
 
 ## ソフト
 
