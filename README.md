@@ -31,7 +31,7 @@
 
 * [高齢者に関する資料 検討の参考となるGL等一覧](https://www.mhlw.go.jp/file/05-Shingikai-11121000-Iyakushokuhinkyoku-Soumuka/0000176445.pdf)
 
-* [睡眠薬の適正な使⽤と休薬のための診療ガイドライン ｰ出⼝を⾒据えた不眠医療マニュアルｰ](http://jssr.jp/files/guideline/suiminyaku-guideline.pdf)
+* [睡眠薬の適正な使⽤と休薬のための診療ガイドライン -出⼝を⾒据えた不眠医療マニュアル-](http://jssr.jp/files/guideline/suiminyaku-guideline.pdf)
 
 * [BPSDに対応する向精神薬使用ガイドライン](https://www.mhlw.go.jp/stf/houdou/2r98520000036k0c-att/2r98520000036k1t.pdf)
 
@@ -40,6 +40,12 @@
     * [便秘に大建中湯](https://www.jsom.or.jp/medical/ebm/cpg/pdf/A03.pdf)
 
 * [ステロイド一覧](http://www.okiyaku.or.jp/pdf/suteroido.pdf)
+
+* [B型肝炎ウイルス検査](http://www.med.osaka-u.ac.jp/pub/hp-lab/rinkenhome/subfile/DCMI/kessei_gaisetu_9.pdf)
+
+* [医師意見書記載の手引き（案）](https://www.mhlw.go.jp/bunya/shougaihoken/other/dl/140121_04.pdf)
+* [精神症状・能力障害二軸評価等評価基準](https://www.city.kobe.lg.jp/documents/1104/nijiku.pdf)
+
 
 ## ソフト
 
