@@ -46,13 +46,13 @@
 * [医師意見書記載の手引き（案）](https://www.mhlw.go.jp/bunya/shougaihoken/other/dl/140121_04.pdf)
 * [精神症状・能力障害二軸評価等評価基準](https://www.city.kobe.lg.jp/documents/1104/nijiku.pdf)
 
+* [改定DESIGN-R® 2020](http://www.jspu.org/jpn/info/design.html)
+  * [ステージ分類](https://ptweb.jp/article/2016/160404000920/)
+
+* [パーキンソン症状重症度](https://parkinson-smile.net/symptom/p6.html)
 
 ## ソフト
 
 * [ORCA 医見書](https://www.orca.med.or.jp/ikensyo/)
-
-
-
-
 
 
