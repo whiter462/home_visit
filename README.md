@@ -38,6 +38,8 @@
 * [日本神経学会診療ガイドライン](https://www.neurology-jp.org/guidelinem/index.html)
   * [脊髄小脳変性症・多系統萎縮症診療ガイドライン2018](https://www.neurology-jp.org/guidelinem/sd_mst_2018.html)
     * [便秘に大建中湯](https://www.jsom.or.jp/medical/ebm/cpg/pdf/A03.pdf)
+  * [ALSガイドライン 2013](https://www.neurology-jp.org/guidelinem/als2013_index.html)
+    * [ALSの包括的呼吸ケア 2007年](https://www.nanbyou.or.jp/wp-content/uploads/pdf/2008als.pdf)
 
 * [ステロイド一覧](http://www.okiyaku.or.jp/pdf/suteroido.pdf)
 
