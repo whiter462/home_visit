@@ -28,6 +28,7 @@
 
 * 排尿障害
   * [高齢者排尿障害のアセスメントと対処](https://www.igaku.co.jp/pdf/1408_wocnursing-03.pdf) 
+  * [大手前病院 排尿障害地域連携パス 診療マニュアル](https://www.otemae.gr.jp/user/media/otemae/page/department/shinryoka/hinyou/renkei/manual.pdf)
 
 * 高齢者関連（GL、睡眠障害、BPSD、気分障害）
   * [高齢者に関する資料 検討の参考となるGL等一覧](https://www.mhlw.go.jp/file/05-Shingikai-11121000-Iyakushokuhinkyoku-Soumuka/0000176445.pdf)
