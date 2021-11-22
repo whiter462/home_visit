@@ -30,6 +30,9 @@
   * [高齢者排尿障害のアセスメントと対処](https://www.igaku.co.jp/pdf/1408_wocnursing-03.pdf) 
   * [大手前病院 排尿障害地域連携パス 診療マニュアル](https://www.otemae.gr.jp/user/media/otemae/page/department/shinryoka/hinyou/renkei/manual.pdf)
 
+* 認知症
+  * [認知症の新たな診断基準](https://www.jpn-geriat-soc.or.jp/publications/other/pdf/review_geriatrics_50_1_1.pdf) 
+
 * 高齢者関連（GL、睡眠障害、BPSD、気分障害）
   * [高齢者に関する資料 検討の参考となるGL等一覧](https://www.mhlw.go.jp/file/05-Shingikai-11121000-Iyakushokuhinkyoku-Soumuka/0000176445.pdf)
   * [睡眠薬の適正な使⽤と休薬のための診療ガイドライン -出⼝を⾒据えた不眠医療マニュアル-](http://jssr.jp/files/guideline/suiminyaku-guideline.pdf)
