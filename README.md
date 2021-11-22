@@ -32,6 +32,7 @@
 
 * 認知症
   * [アルツハイマー病の新たな診断基準](https://www.jpn-geriat-soc.or.jp/publications/other/pdf/review_geriatrics_50_1_1.pdf) 
+  * [アミロイドPETイメージング剤の適正使用ガイドライン (第2版）](http://jsnm.org/archives/655/)
 
 * 高齢者関連（GL、睡眠障害、BPSD、気分障害）
   * [高齢者に関する資料 検討の参考となるGL等一覧](https://www.mhlw.go.jp/file/05-Shingikai-11121000-Iyakushokuhinkyoku-Soumuka/0000176445.pdf)
