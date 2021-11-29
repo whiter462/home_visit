@@ -22,6 +22,9 @@
 
 * 骨粗鬆症
   * [最新の骨粗鬆症治療薬](https://www.jstage.jst.go.jp/article/geriatrics/56/2/56_56.136/_pdf)
+  * [骨代謝マーカーの基準値と評価基準](http://www.medic-grp.co.jp/kensa/db/graph/38pg.pdf)
+  * [骨粗鬆症の予防と治療ガイドライン 2015年版](http://www.josteo.com/ja/guideline/doc/15_1.pdf)
+  * [骨粗鬆症診療における骨代謝マーカーの 実践的活用法について](https://www.eiken.co.jp/uploads/modern_media/literature/2016_09/002.pdf)
 
 * 便秘
   * [「慢性便秘症」に対する治療―新しい薬をどのように使うか―](https://oh-kinmui.jp/1509/)
