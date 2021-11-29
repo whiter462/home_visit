@@ -49,7 +49,9 @@
   * [ALSガイドライン 2013](https://www.neurology-jp.org/guidelinem/als2013_index.html)
     * [ALSの包括的呼吸ケア 2007年](https://www.nanbyou.or.jp/wp-content/uploads/pdf/2008als.pdf)
 
-* [ステロイド一覧](http://www.okiyaku.or.jp/pdf/suteroido.pdf)
+* [ステロイド一覧（リンク切れ）](http://www.okiyaku.or.jp/pdf/suteroido.pdf)
+  * [↑の画像](https://twitter.com/m_disorder_125/status/1138022609990275073/photo/2)
+  * [リンク](http://sachi-clinic.jp/troubles/troubles09.htm)、[一覧の画像](http://sachi-clinic.jp/troubles/img/troubles09_02.jpg) 
 
 * [B型肝炎ウイルス検査](http://www.med.osaka-u.ac.jp/pub/hp-lab/rinkenhome/subfile/DCMI/kessei_gaisetu_9.pdf)
 
