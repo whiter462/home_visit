@@ -64,6 +64,9 @@
 
 * [パーキンソン症状重症度](https://parkinson-smile.net/symptom/p6.html)
 
+* 白癬
+  * [爪白癬診断のための検体採取法](http://clenafin.jp/tools/pdf/08.pdf)
+
 ## ソフト
 
 * [ORCA 医見書](https://www.orca.med.or.jp/ikensyo/)
