@@ -63,6 +63,7 @@
   * [ステージ分類](https://ptweb.jp/article/2016/160404000920/)
 
 * [パーキンソン症状重症度](https://parkinson-smile.net/symptom/p6.html)
+  * [振戦の治療](https://www.neurology-jp.org/guidelinem/pdgl/sinkei_pdgl_2011_12.pdf)
 
 * 白癬
   * [爪白癬診断のための検体採取法](http://clenafin.jp/tools/pdf/08.pdf)
