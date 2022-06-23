@@ -14,6 +14,17 @@
   * [がん疼痛の薬物療法に関するガイドライン（2020年版）](https://www.jspm.ne.jp/guidelines/pain/2020/index.php)
     * [嘔気・制吐の薬物療法 2009年](http://jpps.umin.jp/issue/magazine/pdf/0204_02.pdf)
 
+* がん皮膚病変
+  * [がんの皮膚転移について](https://www.homecareclinic.or.jp/zaitakui-study/vol33.html) 
+    * アズノール軟膏にロゼックスゲル（メトロニダゾール、臭気対策）、アルト原末（止血目的）、キシロカインゼリー（表面麻酔、処置時の疼痛対策）を薬局で混合。
+    * ガーゼをはがした際に出血が生じる為、ドラッグストアなどでフィルムがコーティングされているようなガーゼに変更
+    * ベッドサイドに活性炭の消臭剤を臭気対策
+  * [イミキモド・モーズペースト・亜鉛華でんぷん](https://www.niigata-cc.jp/facilities/ishi/Ishi53_1/Ishi53_1_02.pdf)
+    * [モーズペースト調製法](http://heisei-ph.com/pdf/H22.12.162.pdf) 
+  * [小児アトピーでリント布やボチシート使用](https://gotanda-hifuka.com/pediatrics.html)
+
+* [外用、基剤の基本](https://www.almediaweb.jp/pressureulcer/maruwakari/part6/02.html)
+
 * 栄養
   * [経腸栄養剤マップ](http://www.peg.or.jp/care/nst/map.pdf)
   * [栄養剤の使用指針 - 焼津市立総合病院](https://www.hospital.yaizu.shizuoka.jp/hospital/nst/file/eiyozai.pdf)
