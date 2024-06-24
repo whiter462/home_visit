@@ -4,7 +4,7 @@
 ※資料が古い場合があり、注意が必要です。<br>
 ※<b>個人の参考メモであり、参照・参考にしたことによる影響はいかなる場合も保証しません。</b>
 
-* [園芸・農作の参考資料まとめ](https://github.com/whiter462/home_visit/farm.md)
+* [園芸・農作の参考資料まとめ](https://github.com/whiter462/home_visit/blob/main/farm.md))
 
 ---
 
